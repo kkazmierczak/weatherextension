@@ -26,7 +26,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-            [' ', ' ', 'get_temp', 'Wroclaw'],
+            ['R', ' ', 'get_temp', 'Wroclaw'],
         ]
     };
 
